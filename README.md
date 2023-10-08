@@ -1,2 +1,2 @@
-# goweb
+# PyWeb
 Simple Web Framwork For Python
