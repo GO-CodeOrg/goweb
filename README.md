@@ -1,2 +1,2 @@
 # goweb
-Powerful Web Framwork For Go
+Simple Web Framwork For Python
